@@ -1,6 +1,6 @@
 # Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review
 
-Based on  https://github.com/mingze-yuan/Awesome-LLM-Healthcare and their paper in Medicine Plus 2024;1(2):100030 [[link](https://www.sciencedirect.com/science/article/pii/S2950347724000264)]
+Based on the paper by M. Yuan, P. Bao, Y. Shen, ..., B. Dong in Medicine Plus 2024;1(2):100030 [[link](https://www.sciencedirect.com/science/article/pii/S2950347724000264)]
 
 ## 🔔 News
 
