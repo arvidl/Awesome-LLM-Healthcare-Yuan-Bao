@@ -1,8 +1,13 @@
 # Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review
 
-(based on  https://github.com/mingze-yuan/Awesome-LLM-Healthcare and their paper in Medicine Plus 2024;1(2):100030 [[link](https://www.sciencedirect.com/science/article/pii/S2950347724000264)]
+Based on  https://github.com/mingze-yuan/Awesome-LLM-Healthcare and their paper in Medicine Plus 2024;1(2):100030 [[link](https://www.sciencedirect.com/science/article/pii/S2950347724000264)]
 
 ## 🔔 News
+
+- [2025/08/25] Fork from https://github.com/mingze-yuan/Awesome-LLM-Healthcare
+  
+-----
+
 <!-- - 💥 [2023/09/15] Our survey is released! See [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) for the paper! -->
 - 💥 [2023/11/06] Our review paper is available at [here](https://arxiv.org/abs/2311.01918).
 - ✨ [2023/11/03] We create this repository to maintain a paper list on Large Language Models (LLMs) in Medicine.
